@@ -1,0 +1,9 @@
+/* style.css */
+body {
+    margin: 0;
+}
+
+#gameCanvas {
+    display: block;
+    margin: 20px auto;
+}
